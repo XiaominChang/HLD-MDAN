@@ -1,7 +1,7 @@
 #Hybrid Loss-driven Multi-source Domain Adversarial Network
 
 This code implements a multi-source learning algorithm for NILM applications
-<img src="Plot/framework.png" alt="alt text" width="800" height="300">
+<img src="Plot/framework.PNG"  width="600" height="300">
 
 # How to use the code and example
 Directory tree:
@@ -41,6 +41,6 @@ Datasets used can be found:
 3. REFIT: https://www.refitsmarthomes.org/datasets/
 
 # Reference
-[1] Yinyan Liu, Li Zhong, Jing Qiu, Junda Lu, and Wei Wang. 2021. Unsupervised Domain Adaptation for Non-Intrusive Load Monitoring Via Adversarial and Joint Adaptation Network. IEEE Transactions on Industrial Informatics (2021).
-[2] Han Zhao, Shanghang Zhang, Guanhang Wu, Geoffrey J Gordon, et al. 2018. Multiple source domain adaptation with adversarial learning. (2018).
-[3] Guillaume Richard, Antoine de Mathelin, Georges Hébrail, Mathilde Mougeot, and Nicolas Vayatis. 2020. Unsupervised multi-source domain adaptation for regression. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, 395–411
+[1] Yinyan Liu, Li Zhong, Jing Qiu, Junda Lu, and Wei Wang. 2021. Unsupervised Domain Adaptation for Non-Intrusive Load Monitoring Via Adversarial and Joint Adaptation Network. IEEE Transactions on Industrial Informatics (2021). <br />
+[2] Han Zhao, Shanghang Zhang, Guanhang Wu, Geoffrey J Gordon, et al. 2018. Multiple source domain adaptation with adversarial learning. (2018).<br />
+[3] Guillaume Richard, Antoine de Mathelin, Georges Hébrail, Mathilde Mougeot, and Nicolas Vayatis. 2020. Unsupervised multi-source domain adaptation for regression. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, 395–411.
