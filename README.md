@@ -1,6 +1,7 @@
-#Hybrid Loss-driven Multi-source Domain Adversarial Network
+# Hybrid Loss-driven Multi-source Domain Adversarial Network
 
 This code implements a multi-source learning algorithm for NILM applications
+
 <img src="Plot/framework.PNG"  width="600" height="300">
 
 # How to use the code and example
